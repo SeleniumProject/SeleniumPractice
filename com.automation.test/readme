@@ -12,3 +12,22 @@ Locators in selenium
 8. xpath
 
 
+- Set up selenium jar files for maven project
+- Types of Selenium jar required for selenium Project
+  a. Selenium-java client driver
+  b. Selenium-standalone-server jar file
+  c. browser drivers if required.
+   
+
+git commands:
+
+git remote url
+git username
+git email
+git pass
+
+git config --global user.name cameronmcnz
+git config --global user.email global-config@example.com
+
+
+git push origin master -f
