@@ -1,0 +1,14 @@
+Locators in selenium
+
+- To identify elements in the webpage we need locators of the webelements
+
+1. Id
+2. name
+3. classname
+4. cssSelector
+5. linktext
+6. partiallinktext
+7.tagname
+8. xpath
+
+
