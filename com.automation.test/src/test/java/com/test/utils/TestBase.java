@@ -24,7 +24,7 @@ public class TestBase {
 		
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\rkautomationlab\\eclipse-workspace\\com.automation.test\\src\\test\\resources\\drivers\\chromedriver.exe");
-//		WebDriverManager.edgedriver().setup();
+
 		driver = new ChromeDriver();
 		// Navigate to Site Url .
 		driver.get("https://demowebshop.tricentis.com/");
